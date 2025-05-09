@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template]!(https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a PhD student in <a href="https://drexel.edu/cci/academics/information-science-department/" target="_blank">Information Science</a> at Drexel University, where I work under the supervision of Dr. Michael Ekstrand at the <a href="https://inertial.science" target="_blank">INERTIAL Lab</a>. Our research focuses on enhancing information access technologies to improve their effectiveness and social impact. Before joining Drexel, I earned my MSc in <a href="https://en.ce.kntu.ac.ir/" target="_blank">Computer Engineering</a> (AI specialization) from <a href="https://en.kntu.ac.ir/" target="_blank">K. N. Toosi University of Technology</a>. During my time there, I studied bias in ranking and recommendation at the <a href="https://www.linkedin.com/company/kntu-tis" target="_blank">Textual Intelligent Systems Lab</a>.
+                    <br><br>
 
 A data-driven personal website
 ======
