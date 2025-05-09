@@ -15,16 +15,16 @@ Before joining Drexel, I earned my MSc in <a href="https://en.ce.kntu.ac.ir/" ta
 Publications
 ======
 - User and Recommender Behavior Over Time: Contextualizing Activity, Effectiveness, Diversity, and Fairness in Book Recommendation
-  Samira Vaez Barenji, Sushobhan Parajuli, Michael D. Ekstrand  
-*In 8th Workshop on Fairness in User Modeling, Adaptation, and Personalization (FairUMAP 2025)* 
+  Samira Vaez Barenji, Sushobhan Parajuli, Michael D. Ekstrand
+  *In 8th Workshop on Fairness in User Modeling, Adaptation, and Personalization (FairUMAP 2025)* 
                     
 - DIPT: Diversified Personalized Transformer for QAC systems
   Mahdi Dehghani, Samira Vaez Barenji, Saeed Farzi
-*In 13th International Conference on Computer and Knowledge Engineering (ICCKE 2023)*
+  *In 13th International Conference on Computer and Knowledge Engineering (ICCKE 2023)*
    
 - Managing multi-faceted bias in collaborative filtering recommender systems
   Samira Vaez Barenji, Saeed Farzi
-   *arXiv preprint arXiv:2302.10575*
+  *arXiv preprint arXiv:2302.10575*
 
 News
 ------
