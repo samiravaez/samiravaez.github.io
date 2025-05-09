@@ -11,34 +11,22 @@ I am currently a PhD student in <a href="https://drexel.edu/cci/academics/inform
 
 Publications
 ======
-<ul>
-                   
-   <li><b>User and Recommender Behavior Over Time: Contextualizing Activity, Effectiveness, Diversity, and Fairness in Book Recommendation</b>
-                        <h5 style="margin-bottom:0; margin-top:0">Samira Vaez Barenji, Sushobhan Parajuli, Michael D. Ekstrand</h5>
-                        <h6 style="margin-top:0"><i>In 8th Workshop on Fairness in User Modeling, Adaptation, and Personalization (FairUMAP 2025)</i>  
-                     </h6>
-                    </li>
-  <li><b>DIPT: Diversified Personalized Transformer for QAC systems</b>
-                        <h5 style="margin-bottom:0; margin-top:0">Mahdi Dehghani, Samira Vaez Barenji, Saeed Farzi</h5>
-                        <h6 style="margin-top:0"><i>In 13th International Conference on Computer and Knowledge Engineering (ICCKE 2023)</i>  
-                     </h6>
-                    </li>
-                    <li><b>Managing multi-faceted bias in collaborative filtering recommender systems</b>
-                        <h5 style="margin-bottom:0; margin-top:0">Samira Vaez Barenji, Saeed Farzi</h5>
-                        <h6 style="margin-top:0"><i>arXiv preprint arXiv:2302.10575</i></h6>
-                    </li>
-
-</ul>
+1. User and Recommender Behavior Over Time: Contextualizing Activity, Effectiveness, Diversity, and Fairness in Book Recommendation
+   Samira Vaez Barenji, Sushobhan Parajuli, Michael D. Ekstrand
+   <i>In 8th Workshop on Fairness in User Modeling, Adaptation, and Personalization (FairUMAP 2025)</i>  
+                    
+2. DIPT: Diversified Personalized Transformer for QAC systems
+   Mahdi Dehghani, Samira Vaez Barenji, Saeed Farzi
+   <i>In 13th International Conference on Computer and Knowledge Engineering (ICCKE 2023)</i>
+   
+3. Managing multi-faceted bias in collaborative filtering recommender systems
+   Samira Vaez Barenji, Saeed Farzi
+   <i>arXiv preprint arXiv:2302.10575</i>
 
 News
 ------
-<ul>
-    <li>
-      <strong>April 28, 2025</strong><br>
-      Our paper <em>"User and Recommender Behavior Over Time: Contextualizing Activity, Effectiveness, Diversity, and Fairness in Book Recommendation"</em> was accepted to the <strong>FairUMAP 2025</strong> workshop at ACM UMAP.
-    </li>
-    <li>
-      <strong>September 23, 2024</strong><br>
-      I began my PhD in <strong>Information Science</strong> at <strong>Drexel University</strong>, focusing on fairness and evaluation in recommender systems.
-    </li>
-  </ul>
+- **April 28, 2025**  
+  Our paper *"User and Recommender Behavior Over Time"* is accepted to the **FairUMAP 2025** workshop at ACM UMAP!
+
+- **September 23, 2024**  
+  I began my PhD in **Information Science** at **Drexel University**.
