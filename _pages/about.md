@@ -12,15 +12,23 @@ I am currently a PhD student in <a href="https://drexel.edu/cci/academics/inform
 Publications
 ======
 <ul>
-                    <li><b>DIPT: Diversified Personalized Transformer for QAC systems</b>
+                   
+   <li><b>User and Recommender Behavior Over Time: Contextualizing Activity, Effectiveness, Diversity, and Fairness in Book Recommendation</b>
+                        <h5 style="margin-bottom:0; margin-top:0">Samira Vaez Barenji, Sushobhan Parajuli, Michael D. Ekstrand</h5>
+                        <h6 style="margin-top:0"><i>In 8th Workshop on Fairness in User Modeling, Adaptation, and Personalization (FairUMAP 2025)</i>  
+                     </h6>
+                    </li>
+  <li><b>DIPT: Diversified Personalized Transformer for QAC systems</b>
                         <h5 style="margin-bottom:0; margin-top:0">Mahdi Dehghani, Samira Vaez Barenji, Saeed Farzi</h5>
-                        <h6 style="margin-top:0"><i>In 13th International Conference on Computer and Knowledge Engineering (ICCKE 2023)</i></h6>
+                        <h6 style="margin-top:0"><i>In 13th International Conference on Computer and Knowledge Engineering (ICCKE 2023)</i>  
+                     </h6>
                     </li>
                     <li><b>Managing multi-faceted bias in collaborative filtering recommender systems</b>
                         <h5 style="margin-bottom:0; margin-top:0">Samira Vaez Barenji, Saeed Farzi</h5>
                         <h6 style="margin-top:0"><i>arXiv preprint arXiv:2302.10575</i></h6>
                     </li>
-                </ul>
+
+</ul>
 
 Site-wide configuration
 ------
