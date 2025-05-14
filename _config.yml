@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "Samira Vaez Barenji"
 title_separator          : "-"
 name                     : &name "Samira Vaez Barenji"
 description              : &description "personal description"
