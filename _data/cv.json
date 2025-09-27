@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Samira Vaez Barenji",
-    "email": "sv849@drexel.edu",
+    "email": "svaez@drexel.edu",
     "phone": "",
     "website": "https://samiravaez.com",
     "summary": "",
@@ -25,8 +25,13 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
+        "username": "samiravaez",
         "url": "https://github.com/samiravaez"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/samira-vaezbarenji/"
       }
     ]
   },
