@@ -30,6 +30,9 @@ Publications
 
 News
 ------
+- **June 16–19, 2025**  
+  Attended UMAP 2025 in New York and presented our paper. Great talks, great discussions, and lots to think about afterward.
+  
 - **April 28, 2025**  
   Our paper *"User and Recommender Behavior Over Time"* is accepted to the **FairUMAP 2025** workshop at ACM UMAP!
 
