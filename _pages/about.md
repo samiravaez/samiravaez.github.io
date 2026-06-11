@@ -10,6 +10,8 @@ redirect_from:
 I am currently a PhD student in <a href="https://drexel.edu/cci/academics/information-science-department/" target="_blank">Information Science</a> at Drexel University, where I work under the supervision of Dr. Michael Ekstrand at the <a href="https://inertial.science" target="_blank">INERTIAL Lab</a>. My research focuses on studying and evaluating information access systems, particularly recommender systems, to ensure they are used effectively and equitably for the benefit of the diverse stakeholders involved.   
 Before joining Drexel, I earned my MSc in Computer Engineering (AI specialization) from K. N. Toosi University of Technology. During my time there, I studied bias in ranking and recommendation at the Textual Intelligent Systems Lab.
 
+A particularly interesting question that motivates me at this stage is how we assess progress as retrieval and recommendation systems move from one state to another, and whether our evaluation methodologies accurately capture the improvements we aim to achieve. More specifically, I am interested in understanding how evaluation methods and tools can fail, when their underlying assumptions break down, and how they can be adapted to different contexts so that measured outcomes remain valid, reliable, and representative of the qualities we actually want to optimize. After all, a statistically significant result is much more interesting when it is also significant in every other sense!
+
 **I’m always open to collaboration, discussion, or just sharing ideas. Feel free to get in touch!**
 
 Publications
