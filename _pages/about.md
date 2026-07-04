@@ -33,7 +33,7 @@ News
 * **June 15–26, 2025**  
   Attended the Summer Institute in Computational Social Science at Penn (SICSS-Penn). Loved the mix of methods, collaboration, and new research directions.
 
-   <img src="{{ '/images/sicss.jpg' | relative_url }}" alt="SICSS-Penn 2025 group photo" width="220">
+   <img src="{{ '/images/sicss.jpg' | relative_url }}" alt="SICSS-Penn 2026 group photo" width="220">
   
 - **June 16–19, 2025**  
   Attended UMAP 2025 in New York and presented our paper. Great talks, great discussions, and lots to think about afterward.
