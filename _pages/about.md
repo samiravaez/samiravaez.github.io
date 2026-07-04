@@ -30,7 +30,7 @@ Publications
 
 News
 ------
-* **June 15–26, 2025**  
+* **June 15–26, 2026**  
   Attended the Summer Institute in Computational Social Science at Penn (SICSS-Penn). Loved the mix of methods, collaboration, and new research directions.
 
    <img src="{{ '/images/sicss.jpg' | relative_url }}" alt="SICSS-Penn 2026 group photo" width="220">
