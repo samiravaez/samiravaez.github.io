@@ -30,7 +30,10 @@ Publications
 
 News
 ------
-* **June 15–26, 2026**  
+- **July 10, 2026**
+  Our paper, *“On the Convergent Validity of Offline Evaluation Designs for Recommender Systems,”* was accepted to the **RecSys 2026 Main Track**  (18% acceptance rate).
+  
+- **June 15–26, 2026**  
   Attended the Summer Institute in Computational Social Science at Penn (SICSS-Penn). Loved the mix of methods, collaboration, and new research directions.
 
    <img src="{{ '/images/sicss.jpg' | relative_url }}" alt="SICSS-Penn 2026 group photo" width="220">
