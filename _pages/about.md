@@ -30,7 +30,7 @@ Publications
 
 News
 ------
-- **July 10, 2026**
+- **July 10, 2026**  
   Our paper, *“On the Convergent Validity of Offline Evaluation Designs for Recommender Systems”*, was accepted to the **RecSys 2026 Main Track**  (18% acceptance rate).
   
 - **June 15–26, 2026**  
