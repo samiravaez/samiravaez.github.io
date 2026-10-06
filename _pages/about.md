@@ -16,6 +16,14 @@ A particularly interesting question that motivates my research at this stage is 
 
 Publications
 ======
+- <a href="https://doi.org/10.1145/3773078.3831818" target="_blank" rel="noopener"> On the Convergent Validity of Offline Evaluation Designs for Recommender Systems</a>
+   <br>Sushobhan Parajuli, Samira Vaez Barenji, Michael D. Ekstrand
+   <br>*In Proceedings of the 20th ACM Conference on Recommender Systems (RecSys 2026)*
+
+- <a href="https://arxiv.org/abs/2608.29019" target="_blank" rel="noopener"> Book Readership During Movie Releases: An Exploratory Analysis</a>
+   <br>Sushobhan Parajuli, Vittoria Vineis, Samira Vaez Barenji, Michael D. Ekstrand
+   <br>*In 3rd Workshop on Temporal Reasoning in Recommender Systems (RecTemp 2026) at ACM RecSys 2026*
+  
 - <a href="https://dl.acm.org/doi/10.1145/3708319.3733710" target="_blank" rel="noopener"> User and Recommender Behavior Over Time: Contextualizing Activity, Effectiveness, Diversity, and Fairness in Book Recommendation</a>
   <br>Samira Vaez Barenji, Sushobhan Parajuli, Michael D. Ekstrand
    <br>*In 8th Workshop on Fairness in User Modeling, Adaptation, and Personalization (FairUMAP 2025)* 
