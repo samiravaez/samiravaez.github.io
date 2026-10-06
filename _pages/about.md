@@ -30,6 +30,12 @@ Publications
 
 News
 ------
+- **September 28 - October 2, 2026**  
+  Attended ACM RecSys 2026 in Minneapolis. One of the highlights of the year!
+  
+- **August 11, 2026**  
+  Our work, *“Book Readership During Movie Releases”*, was accepted to the RecTemp workshop at **ACM RecSys 2026**.
+  
 - **July 10, 2026**  
   Our paper, *“On the Convergent Validity of Offline Evaluation Designs for Recommender Systems”*, was accepted to the **RecSys 2026 Main Track**  (18% acceptance rate).
   
